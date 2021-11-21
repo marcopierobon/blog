@@ -1,9 +1,9 @@
 ---
 template: index-page
 slug: /
-title: Marco Developer
+title: Marco Pierobon
 tagline: Software Engineer
-featuredImage: /assets/6e94407d-8703-4379-a1dc-77f8fd8a17db.jpeg
+featuredImage: /assets/screenshot-2021-11-21-at-12.36.21.png
 cta:
   ctaText: Know more
   ctaLink: /about
