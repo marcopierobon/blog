@@ -8,4 +8,4 @@ cta:
   ctaText: Know more
   ctaLink: /about
 ---
-He is software engineer, based in sunny Malaga (Spain). Working as Senior Consultant @ \[Thoughtworks](www.thoughtworks.com)
+He is software engineer, based in sunny Malaga (Spain). Working as Senior Consultant @ [/thoughtworks](www.thoughtworks.com)
