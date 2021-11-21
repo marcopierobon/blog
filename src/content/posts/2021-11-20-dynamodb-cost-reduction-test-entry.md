@@ -1,6 +1,6 @@
 ---
 template: blog-post
-title: Kinesis optimistions
+title: Kinesis considerations
 slug: /Kinesis
 date: 2021-11-20 12:08
 description: Kinesis aws
