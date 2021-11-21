@@ -124,7 +124,10 @@ This has two main benefits:
 
 On both counts, using fewer shards also reduces the DynamoDB capacity required by the KCL (if we're using it).
 
-One final consideration point: once the records are compressed, the custom code on the receiver side will need to decompress the data and demultiplex the requests.
+Two final consideration points: 
+
+- once the records are compressed, the custom code on the receiver side will need to decompress the data and demultiplex the requests.
+- if a compressed blob ends up weighting more than 1 MB/s it will hit the Kinesis API Limit. To avoid that, when the threshold is met the records need to be grouped onto multiple blobs, and each blob should be compressed and added to the `PutRecords` request separately.
 
 [1]: https://docs.aws.amazon.com/streams/latest/dev/introduction.html "AWS documentation on Amazon Kinesis Data Streams"
 [2]: https://www.confluent.io/what-is-apache-kafka "What is Apache Kafka on Confluent"
