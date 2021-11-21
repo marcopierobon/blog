@@ -3,7 +3,7 @@ template: index-page
 slug: /
 title: Marco Pierobon
 tagline: Software Engineer
-featuredImage: /assets/screenshot-2021-11-21-at-12.36.21.png
+featuredImage: /assets/alex-zr48yvupk04-unsplash.jpg
 cta:
   ctaText: Know more
   ctaLink: /about
