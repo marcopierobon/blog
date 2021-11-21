@@ -1,19 +1,11 @@
 ---
 template: blog-post
 title: Kinesis considerations
-slug: /Kinesis
+slug: /KinesisConsiderations
 date: 2021-11-20 12:08
 description: Kinesis aws
 ---
 # Amazon Kinesis
-
-- [Amazon Kinesis](#amazon-kinesis)
-  - [What is Amazon Kinesis](#what-is-amazon-kinesis)
-  - [Using the AWS official libraries for consuming and producing](#using-the-aws-official-libraries-for-consuming-and-producing)
-    - [KPL (Kinesis Producer Library)](#kpl-kinesis-producer-library)
-    - [KCL (Kinesis Consumer Library)](#kcl-kinesis-consumer-library)
-  - [On choosing the partition key](#on-choosing-the-partition-key)
-  - [On batching](#on-batching)
 
 ## What is Amazon Kinesis
 
