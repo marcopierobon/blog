@@ -13,11 +13,11 @@ Amazon Kinesis is a real-time, fully managed, and scalable platform for streamin
 
 Amazon Kinesis Data Streams provides a message broker for (near) real time event streaming. In an on-premise scenario, the closest thing to it would probably Apache Kafka. ([What is Apache Kafka?][2])
 
-Although the two share the same underlying principle of representing an [immutable][3] distributed log, the way they achieve it is quite different. From a first user perspective, something that can be noticed is that all connections to Kinesis go via HTTP, while Kafka uses a custom binary TCP protocol - although there is a Kafka implementation that supports HTTP ([Nakadi][4]).
+Although the two share the same underlying principle of representing an [immutable][3] distributed log, the way they achieve it is quite different. From a first time user perspective, something that can be noticed immediately is that all connections to Kinesis go via HTTP, while Kafka uses a custom binary TCP protocol - although there is a Kafka implementation that supports HTTP ([Nakadi][4]).
 
-For a full apply by apple comparison, you can have a look at the table from the [IT Cheerup's comparison chart][5].
+For an apple to apple comparison, you can have a look at the table from the [IT Cheerup's comparison chart][5].
 
-On a greenfield project in an AWS environment, people would normally pick Kinesis as their event streaming platform, as it's very simple to use and the overhead required to keep it running is very little.
+On a greenfield project in an AWS setting, people would normally pick Kinesis as their event streaming platform, as it's very simple to use and the overhead required to keep it running is very little.
 
 Having said that, a few considerations should be made before starting to use it.
 
@@ -35,17 +35,17 @@ The most interesting features provided by the KPL are:
 
 - message batching: the library allows to easily publish events not sharing the same partition key on the same batch
 - handling individual event failures: if not all events could be received by Kinesis (aka a partial success condition), the library simplifies dealing with the individual failures
-- logging: the library provides automatic logging
+- logging: the library provides automatic logging in response to success/failure of the publication of the events
 
-In case no KPL library is available or using an unofficial one is not an option, the only alternative is to connect directly to the Kinesis API and implement these features (if needed).
+In case no KPL library is available for the technology at hand or using an unofficial one is not an option, the only alternative is to connect directly to the Kinesis API and provide a bespoke implementation of the needed features.
 
 ### KCL (Kinesis Consumer Library)
 
 On the consuming side, although the library started out as multiplatform on v1, on the following version it followed the same path of the KPL - meaning that it is available natively only in Java. 
 
-The main difference in this regard, is that it is available via a MultiLangDaemon ([MultiLangDaemon Code][8]) app that allows call from other languages. In order to make this possible, the Java process need to be running side by side with the code in the other language ([MultiLangDaemon on AWS docs][9]).
+The main difference in this regard, is that it is available via a MultiLangDaemon ([MultiLangDaemon Code][8]) app that allows call from other languages. In order to make this possible, the Java process needs to be running side by side with application calling it ([MultiLangDaemon on AWS docs][9]).
 
-An unofficial Golang implementation of the KCL by VMWare is available on [GitHub][10], and it also seems to be a healthy project.
+An unofficial Golang implementation of the KCL by VMWare is available on [GitHub][10], and, similarly to the unofficial KPL library, it also seems to be a healthy project.
 
 The functionality provided by the KCL are most advanced than the ones provided by the KCL. Among them:
 
