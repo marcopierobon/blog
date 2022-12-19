@@ -112,11 +112,11 @@ As electricity and central heating are becoming more and more unreliable at ever
 
 People need warm clothes, blankets and wood stoves to have a chance.
 
-[Shelterbox](shelterbox.org) is an NGO that has helped 1 millions people in over 10 years and are now using the great majority of all donations they receive to Ukraine.
+***[Shelterbox](shelterbox.org)*** is an NGO that has helped 1 millions people in over 10 years and are now using the great majority of all donations they receive to Ukraine.
 
 Depending on your location you can choose which shelterbox's branch to donate to:
 
-* UK: through paypal [here](https://blog.thoughtworks.net/marco-pierobon/ukraine-is-crying-winter-is-biting-hard#:~:text=UK%3A%20through%20paypal-,here,-US%3A%20though%20card)
+* UK: through paypal [here](https://www.paypal.com/gb/fundraiser/charity/15601)
 * US: though card/paypal/venmo/gpay/appleplay [here](https://www.shelterboxusa.org/donate/)
 * Canada: through card/paypal [here](https://www.shelterboxcanada.org/donate/) 
 * Australia: through paypal [here](https://www.paypal.com/au/fundraiser/charity/3693934)
@@ -137,7 +137,7 @@ Also, such a donation can be the best gift for your loved ones this Christmas.
 
 
 
-This is how much each donation can help according to the [Shelterbox](shelterbox.org)  website:
+This is how much each donation can help according to the ***[Shelterbox](shelterbox.org)***  website:
 
 - 40 euros: thermal blankets for a family of five
 
