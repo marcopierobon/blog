@@ -97,31 +97,42 @@ People need warm clothes, blankets and wood stoves to have a chance.
 
 Depending on your location you can choose which shelterbox's branch to donate to:
 
-UK: through paypal [here](https://blog.thoughtworks.net/marco-pierobon/ukraine-is-crying-winter-is-biting-hard#:~:text=UK%3A%20through%20paypal-,here,-US%3A%20though%20card)
-US: though card/paypal/venmo/gpay/appleplay [here](https://www.shelterboxusa.org/donate/)
-Canada: through card/paypal [here](https://www.shelterboxcanada.org/donate/) 
-Australia: through paypal [here](https://www.paypal.com/au/fundraiser/charity/3693934)
-Euro zone: through bank transfer using these infos
+* UK: through paypal [here](https://blog.thoughtworks.net/marco-pierobon/ukraine-is-crying-winter-is-biting-hard#:~:text=UK%3A%20through%20paypal-,here,-US%3A%20though%20card)
+* US: though card/paypal/venmo/gpay/appleplay [here](https://www.shelterboxusa.org/donate/)
+* Canada: through card/paypal [here](https://www.shelterboxcanada.org/donate/) 
+* Australia: through paypal [here](https://www.paypal.com/au/fundraiser/charity/3693934)
+* Euro zone: through bank transfer using these infos
 
 ```
 SHELTERBOX ITALIA – ONLUS
 IBAN: IT 03 Z 03069 09606 100000121688
 Concept: Name, Surname, Donation to Shelterbox
 ```
+* Other zones: please choose one of the branches above based on your preferred donation method
+
+HOW MUCH TO DONATE:
+
+Of course, how much you can donate depends on your income and your living situation, but bear in mind that this is a once in a lifetime, life or death situation.
+
+Also, such a donation can be the best gift for your loved ones this Christmas.
 
 
 
+This is how much each donation can help according to the [Shelterbox](shelterbox.org)  website:
 
+- 40 euros: thermal blankets for a family of five
 
+![Thermal blankets](https://storage.googleapis.com/strapi-imgs/blanket_8f39e6bdbc/blanket_8f39e6bdbc.png)
 
+- 115 euro: winter clothes for a family of five
 
+![Warm clothes](https://storage.googleapis.com/strapi-imgs/clothes_b1292379bc/clothes_b1292379bc.png)
 
+- 600 euros: winter clothes for a family of five, plus a wood stove and furniture of wood to go through the winter.
 
+![Wood stove plus wood forniture and warm clothes](https://storage.googleapis.com/strapi-imgs/set_2d2b3d7339/set_2d2b3d7339.png)
 
-
-
-
-
+Thank you for having made it this far, if you've any questions please reach out to [me](mailto:marco.pierobon@pierobon.net) directly.
 
 
 
