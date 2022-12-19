@@ -64,14 +64,13 @@ These are some of the voices from people living this hell on earth:
 *\- Sergi Volodimir, 58. He lives with his three brothers in a house with no windows and broken doors. They try to keep as warm as they can with a wood stove.*
 
 
+```
+Life in Bakhmut is hard, very hard. Impossible.
 
-> Life in Bakhmut is hard, very hard. Impossible.
-
-> It is only 3 degrees inside our house. We are freezing. We are waiting for a stove, they told us to put our names on the list and wait.
-
-> My husband is 82 and he's too frail to be evacuated. How can I leave him? There are no doctors here. No nurses. Nothing is here.
-
-> We are in the stone age and no one in the world can help us. When will it end?
+It is only 3 degrees inside our house. We are freezing. We are waiting for a stove, they told us to put our names on the list and wait.
+My husband is 82 and he's too frail to be evacuated. How can I leave him? There are no doctors here. No nurses. Nothing is here.
+We are in the stone age and no one in the world can help us. When will it end?
+```
 
 *\- Oksana, 75*
 
