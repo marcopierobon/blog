@@ -27,8 +27,6 @@ As the months wore on, it became clear that the Russian Army was suffering heavy
 
 In contrast, the Russian officers were bound by a strict chain of command that made it difficult for them to respond to the rapidly evolving situation. Despite having superior numbers and equipment, the Russian Army found themselves outmaneuvered and outmatched by the Ukrainian forces.
 
-
-
 ## Waterfall in war - Command and control
 
 The Soviet military during the Cold War era was known for its rigid, top-down command structure that left little room for deviation or improvisation on the part of soldiers on the ground. In many ways, this approach to military strategy can be likened to the traditional "waterfall" model of software development, where each phase of the project is planned out in advance and executed in a linear, sequential fashion.
@@ -39,9 +37,7 @@ T﻿his model is still been used by the Russian forces and people on the ground 
 
 Similarly, the waterfall model of software development can be problematic, as it can result in a rigid and inflexible approach that leaves little room for changes or adjustments based on feedback from users or other stakeholders.
 
-
-
-## A﻿gile in warm - Mission command
+## A﻿gile in war - Mission command
 
 \
 In the Western military approach to warfare, commanders define the overall objectives and goals of the mission, but soldiers on the ground are given the freedom to make tactical decisions about how to achieve those objectives. This approach is often referred to as "mission command", and it empowers soldiers to make decisions based on their own observations and expertise.
@@ -50,11 +46,7 @@ Similarly, in Agile methodologies in software development, teams are given the f
 
 This approach allows for a greater degree of flexibility and adaptability, as team members can respond quickly to changing circumstances and adjust their approach as needed. By empowering team members to make decisions based on their own expertise and observations, Agile methodologies can help to foster a culture of collaboration and innovation, leading to better outcomes for the project and the organization as a whole.
 
-
-
 ## C﻿onclusions
-
-
 
 In war, the ability to make quick and effective changes can be the difference between life and death. Troops on the ground must be able to adapt quickly to changing circumstances on the battlefield, to assess the situation and make rapid decisions to respond to enemy tactics, adjust their own strategies, and seize opportunities as they arise. The consequences of being unable to make changes quickly can be catastrophic, leading to defeat, injury, or even death.
 
