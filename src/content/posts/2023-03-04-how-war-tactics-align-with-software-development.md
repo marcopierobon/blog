@@ -1,6 +1,6 @@
 ---
 template: blog-post
-title: How war tactics align with software development
+title: How war tactics aligns with software development
 slug: /war-tactics
 date: 2023-03-04 15:44
 description: waterfall, command and control, agile, russian, ukranian, war, tactics, learn
@@ -53,3 +53,9 @@ In war, the ability to make quick and effective changes can be the difference be
 Similarly, in software development, the ability to adapt quickly to changing requirements or unexpected issues can mean the difference between success and failure. Projects can be derailed by technical challenges, shifting business needs, or unexpected obstacles. Teams that are able to pivot quickly and make informed decisions about how to adjust their approach are much more likely to succeed than those who stick rigidly to a predetermined plan.
 
 Overall, the ability to make changes quickly and adapt to changing circumstances is critical both in war and in software development. It requires a combination of strategic thinking, effective communication, and the courage to take decisive action in the face of uncertainty. Those who are able to master these skills are much more likely to succeed in their endeavors, whether on the battlefield or in the competitive world of software development.
+
+## References
+
+[﻿Mission Command vs Command and Control](https://www.youtube.com/watch?v=Qu-yJ8wi6Jc&ab_channel=LopezonLeadership)
+
+[﻿Why does Ukraine want tanks?](https://www.youtube.com/watch?v=oEmWE83P2LA&ab_channel=TheTankMuseum)
