@@ -3,7 +3,4 @@ template: contact-page
 slug: /contact
 title: Get in touch
 ---
-
-Got a burning question regarding **JAMstack**, Need a new **Website**, or just anything in general. We are happy to talk.
-
-Just send us a message using the form below or you can send us a DM on [Twitter](https://twitter.com/stackrole)
+You can reach out to me on Twitter at [mpierobond](https://twitter.com/mpierobond) or on [LinkedIn](https://www.linkedin.com/in/marco-pierobon-a82ab646/).
