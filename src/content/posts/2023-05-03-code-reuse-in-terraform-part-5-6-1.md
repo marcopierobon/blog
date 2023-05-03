@@ -1,7 +1,7 @@
 ---
 template: blog-post
-title: Code reuse in Terraform part 5/6
-slug: terraform-reuse-5
+title: Code reuse in Terraform part 6/6
+slug: terraform-reuse-6
 date: 2023-05-03 19:49
 description: How to reuse code in terraform through public Terraform Modules
 ---
