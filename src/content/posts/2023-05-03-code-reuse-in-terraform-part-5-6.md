@@ -101,3 +101,10 @@ After having set the stage, we're ready to go deep into code reuse in terraform.
 
 Stay tuned!
 
+- [Code reuse in Terraform - Intro](https://www.pierobon.net/terraform-reuse-1)
+- [Code reuse through modularization](https://www.pierobon.net/terraform-reuse-2)
+- [Code reuse using the DRY principle](https://www.pierobon.net/terraform-reuse-3)
+- [Code Reuse Through Data Sources](https://www.pierobon.net/terraform-reuse-4)
+- Code Reuse Through public Terraform Modules
+- [Best Practices for Terraform Code Reuse](https://www.pierobon.net/terraform-reuse-6)
+
