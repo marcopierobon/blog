@@ -127,3 +127,10 @@ This value will then be accessible by the calling module via the syntax `module.
 In the next article we'll talk about *Using DRY for Code Reuse*.
 
 Stay tuned!
+
+- [Code reuse in Terraform - Intro](https://www.pierobon.net/terraform-reuse-1)
+- Code reuse through modularization
+- [Code reuse using the DRY principle](https://www.pierobon.net/terraform-reuse-3)
+- [Code Reuse Through Data Sources](https://www.pierobon.net/terraform-reuse-4)
+- [Code Reuse Through public Terraform Modules](https://www.pierobon.net/terraform-reuse-5)
+- [Best Practices for Terraform Code Reuse](https://www.pierobon.net/terraform-reuse-6)
