@@ -122,3 +122,10 @@ resource "aws_security_group" "example" {
 In the next article we'll talk about *Code Reuse Through Data Sources*.
 
 Stay tuned!
+
+- [Code reuse in Terraform - Intro](https://www.pierobon.net/terraform-reuse-1)
+- [Code reuse through modularization](https://www.pierobon.net/terraform-reuse-2)
+- Code reuse using the DRY principle
+- [Code Reuse Through Data Sources](https://www.pierobon.net/terraform-reuse-4)
+- [Code Reuse Through public Terraform Modules](https://www.pierobon.net/terraform-reuse-5)
+- [Best Practices for Terraform Code Reuse](https://www.pierobon.net/terraform-reuse-6)
